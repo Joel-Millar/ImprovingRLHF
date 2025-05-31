@@ -5,3 +5,5 @@ Reinforcement learning with human feedback allows an agent to complete a hard to
 
 This code builds upon the code and results achieved by:
 Kimin Lee, Laura Smith, Pieter Abbeel, “PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training,” in International Conference on Machine Learning, 2021. 
+
+The Project_Dissertation contains results and analysis of my results.
